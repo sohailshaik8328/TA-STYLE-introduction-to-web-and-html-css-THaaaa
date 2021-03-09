@@ -1,0 +1,36 @@
+.container{
+    width: 60%;
+    background-color: rgb(34,57,106);
+    margin: 20px auto;
+    color: #FFFFFF;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 20px;
+}
+.name{
+    font-size: 25px;
+}
+address{
+    font-size: 16px;
+}
+h6{
+    font-size: 13px;
+    line-height: 0.5px;
+}
+h5{
+    font-size: 16px;
+}
+.links{
+    border: 1px solid black;
+    width: 300px;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: red;
+    font-size: 13px;
+}
+li{
+    list-style: none;
+}
